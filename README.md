@@ -1,1 +1,1 @@
-# Retail_sales_p2
+# Retail_sales_p2 SQL
